@@ -9,4 +9,4 @@
     
     we can also use (git push -u origin main) after that 
     we dont have to type origin main every time
-    we save it or edit it
+    we save it or edit it.
